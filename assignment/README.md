@@ -1,5 +1,5 @@
 ##Getting and Cleaning Data - Assignment
-** This is the assignment for the Getting and Cleaning Data Coursera course.**
+**This is the assignment for the Getting and Cleaning Data Coursera course.**
 
 The R script, run_analysis.R, does the following:
 
